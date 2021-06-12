@@ -7,8 +7,8 @@ Find an alternative for ASIO4ALL to use multiple soundcards on Windows with Frui
 
 ## Installation
 - Download JACK Audio at https://jackaudio.org/downloads ( Windows 64 Bit installer )
-- Open Installer ( jack2-win64-v1.9.18.exe )
-- Activate JACK-Router ASIO Driver
+- Open Installer ( `jack2-win64-v1.9.18.exe` )
+- Activate `JACK-Router ASIO Driver`
 - Install Software
 
 ## Start JACK Server
