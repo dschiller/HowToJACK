@@ -1,6 +1,6 @@
 # Goal
 
-Find a alternative for ASIO4ALL to use multiple soundcards on Windows with Fruity Loops
+Find an alternative for ASIO4ALL to use multiple soundcards on Windows with FruityLoops
 
 ## Tech Stack
 - JACK Audio at https://jackaudio.org
